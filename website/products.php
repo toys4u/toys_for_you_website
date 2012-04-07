@@ -1,26 +1,6 @@
 <html>
-<head>
-<title>Toys For U</title>
-<meta name="description" content="Toys for You is your ultimate online hobby store dedicated to providing YOU an innovative approach to online shopping. At Toys for You, customer satisfaction is of utmost importance. That is why we aim to provide our valued customers with the highest level of shopping experience by putting together toys that would match your interest. Be it gadgets, accessories, computers, laptops, camera, cellphone, science toys, or just about anything that interests you, we would be your best online shopping partner." />
-<img src="http://www.toysforyou.co.cc/images/banner2.jpg" height="125" width="100%">
-</head>
 <body>
-<!-- Tabs -->
-<table align="left" cellspacing="5" cellpadding="3">
-	<tr>
-		<td align="center" bgcolor="#FF3333"><a href="index.html"><font size="3" color="#FFFFFF"><b>HOME</b></font>
-		<td align="center" bgcolor="#458B00"><a href="products.html"><font size="3" color="#FFFFFF"><b>PRODUCTS</b></font></a>
-		<td align="center" bgcolor="#0099CC"><a href="mega_sale.html"><font size="3" color="#FFFFFF"><b>MEGA SALE</b></font></a>
-		<td align="center" bgcolor="#8A2BE2"><a href="how_to_order.html"><font size="3" color="#FFFFFF"><b>HOW TO ORDER</b></font></a>
-		<td align="center" bgcolor="#FF9912"><a href="about_us.html"><font size="3" color="#FFFFFF"><b>ABOUT US</b></font></a>
-	</tr>
-</table>
-<br>
-<br>
-<br>
-<hr align="left" color="#003EFF" size="5" width="90%">
-
-
+<?php include('header.php'); ?>
 <table border="3" width="75%" align="center">
 	<tr bgcolor="#4169E1">
 		<td align="left"><font color="#FFFFFF">Products</font>
@@ -51,12 +31,12 @@
 					<td align="center">Php 3,488
 				</tr>
 				<tr>
-					<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
-					<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
-					<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+					<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+					<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+					<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 				</tr>
 				<tr>
-					<td colspan="3">**Feel free to <a href="about_us.html#contact">contact us</a> for models not listed here.
+					<td colspan="3">**Feel free to <a href="about_us.php#contact">contact us</a> for models not listed here.
 				</tr>
 			</table>
 	<tr>
@@ -85,12 +65,12 @@
 					<td align="center">Php 10,788
 				</tr>
 				<tr>
-					<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
-					<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
-					<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+					<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+					<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+					<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 				</tr>
 				<tr>
-					<td colspan="3">**Feel free to <a href="about_us.html#contact">contact us</a> for models not listed here.
+					<td colspan="3">**Feel free to <a href="about_us.php#contact">contact us</a> for models not listed here.
 				</tr>
 			</table>
 	<tr>
@@ -119,7 +99,7 @@
 								<td><i><font size="2">*One year store warranty + <font color="#FF0000">Freebies</font>.</font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -137,7 +117,7 @@
 								<td><i><font size="2">*One year store warranty + <font color="#FF0000">Freebies</font>.</font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -154,7 +134,7 @@
 							<tr>
 								<td><i><font size="2">*Three years Canon Phil. warranty + <font color="#FF0000">Freebies</font>.</font></i>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 				</tr>
@@ -173,7 +153,7 @@
 							<tr>
 								<td><i><font size="2">*Three years Canon Phil. warranty + <font color="#FF0000">Freebies</font>.</font></i>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -191,7 +171,7 @@
 								<td><i><font size="2">*One year store warranty + <font color="#FF0000">Freebies</font>.</font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -209,12 +189,12 @@
 								<td><i><font size="2">*Two years CDSC warranty + <font color="#FF0000">Freebies</font>.</font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 				</tr>
 				<tr>
-					<td colspan="3">**Feel free to <a href="about_us.html#contact">contact us</a> for models not listed here.
+					<td colspan="3">**Feel free to <a href="about_us.php#contact">contact us</a> for models not listed here.
 				</tr>
 			</table>
 	<tr>
@@ -246,7 +226,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -267,7 +247,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -288,7 +268,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 				</tr>
@@ -311,7 +291,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -332,7 +312,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -353,7 +333,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 				</tr>
@@ -376,7 +356,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -397,7 +377,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -418,7 +398,7 @@
 								<td><i><font size="2">*New Price</font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 				</tr>
@@ -441,7 +421,7 @@
 								<td><i><font size="2">*Sale</font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -462,7 +442,7 @@
 								<td><i><font size="2">*Sale</font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -483,7 +463,7 @@
 								<td><i><font size="2">*New Price</font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 				</tr>
@@ -506,7 +486,7 @@
 								<td><i><font size="2">*3 months warranty</font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -527,7 +507,7 @@
 								<td><i><font size="2">*3 months warranty</font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -548,7 +528,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 				</tr>
@@ -571,7 +551,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -592,7 +572,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -613,7 +593,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 				</tr>
@@ -636,7 +616,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -657,7 +637,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -678,7 +658,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 				</tr>
@@ -701,7 +681,7 @@
 								<td><i><font size="2">*New Price</font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -722,7 +702,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -743,7 +723,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 				</tr>
@@ -766,7 +746,7 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 					<td>
@@ -787,12 +767,12 @@
 								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
 							</tr>
 							<tr>
-								<td align="center"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 							</tr>
 						</table>
 				</tr>
 				<tr>
-					<td colspan="3">**Feel free to <a href="about_us.html#contact">contact us</a> for models not listed here.
+					<td colspan="3">**Feel free to <a href="about_us.php#contact">contact us</a> for models not listed here.
 				</tr>
 			</table>
 	<tr>
@@ -816,7 +796,7 @@
 					<td align="center" colspan="2"><del>Php 11,788</del><font color="#FFFFFF">_</font><font color="#FF0000">Php 3,488 <font size="2">and up</font></font>
 				</tr>
 				<tr>
-					<td align="center" colspan="2"><a href="how_to_order.html"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+					<td align="center" colspan="2"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
 				</tr>
 			</table>
 	</tr>
@@ -824,26 +804,8 @@
 		<td><font size="4">Others
 	</tr>
 	<tr>
-		<td>Didn't find what you are looking for? Feel free to <a href="about_us.html#contact">contact us</a> for inquiries and we'll do our best to provide you the online shopping satisfaction that you deserve.
+		<td>Didn't find what you are looking for? Feel free to <a href="about_us.php#contact">contact us</a> for inquiries and we'll do our best to provide you the online shopping satisfaction that you deserve.
 </table>
-<!-- Disclaimer -->
-<font size="2"><i>Note: All prices and product availability are subject to change without prior notice.</i></font>
-<br>
-<br>
-<!-- Footer -->
-<table align="center" border="0" width="85%" cellspacing="0">
-	<tr bgcolor="#1E90FF">
-		<td align="left">
-			<font size="2" color="#FFFFFF">Updated: March 30, 2012</font>
-		<td align="right">
-			<font size="2" color="#FFFFFF">102 transactions since July 31, 2011</font>
-	</tr>
-	<tr>
-		<td align="center" colspan="2">
-			<font size="2">Toys For U - Your Ultimate Online Hobby Store</font>
-	</tr>
-	<tr>
-		<td align="center" colspan="2">
-			<font size="2">Site powered by:<a href="mailto:music_ofhenight@yahoo.com">WebmasterKazuki</a></font>
+<?php include('footer.php'); ?>
 </body>	
 </html>
