@@ -112,13 +112,28 @@
 </table>
 <!-- Right Panel -->
 <table border="3" style="float:right" width="200">
+	<!-- News & Events -->
+	<tr bgcolor="#4169E1">
+		<td align="left"><font color="#FFFFFF">News & Events</font>
+	</tr>
 	<tr>
-		<td align="center">
-		<!-- Contact Us -->
-		<table bgcolor="#0099CC" border="0" cellpadding="2">
+		<td>
+		<table border="1" width="100%">
 			<tr>
-				<td colspan="2">Contact Us:
+				<td><a href="news.php#birthday"><font color="#FF0000" size="2">Birthday Blowout!!!</font></a></br><font color="#696969" size="2"><i>04/12/12</i></font>
 			</tr>
+			<tr>
+				<td><a href="news.php#eset_block"><font color="#FF0000" size="2">Website Blocked by ESET</font></a></br><font color="#696969" size="2"><i>04/12/12</i></font>
+			</tr>
+		</table>
+	</tr>
+	<!-- Contact Us -->
+	<tr bgcolor="#4169E1">
+		<td align="left"><font color="#FFFFFF">Contact Us:</font>
+	</tr>
+	<tr>
+		<td>
+		<table bgcolor="#0099CC" border="0" cellpadding="2">
 			<tr>
 				<td>Smart
 				<td>(+63) 921-2385572
@@ -133,6 +148,7 @@
 			</tr>
 		</table>
 	</tr>
+	<!-- Advertise -->
 	<tr>
 		<td align="center"><img src="http://www.toysforyou.co.cc/images/advertise_with_us.jpg">
 	</tr>
