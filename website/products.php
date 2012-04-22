@@ -16,31 +16,407 @@
 			<table border="0" width="100%">
 				<!-- All pictures should be manuallu adjusted to 175x175. -->
 				<tr>
-					<td align="center"><img src="http://www.toysforyou.co.cc/images/iphone4.jpg">
-					<td align="center"><img src="http://www.toysforyou.co.cc/images/blackberry_curve_8520.jpg">
-					<td align="center"><img src="http://www.toysforyou.co.cc/images/tablet.jpg">
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.gsmarena.com/apple_iphone_4-3275.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/iphone4.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">iPhone 4 (8GB)
+							</tr>
+							<tr>
+								<td align="center"><del>Php 26,788</del>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.gsmarena.com/apple_iphone_4s-4212.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/iphone4s.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">iPhone 4s (16GB / 32GB / 64GB)
+							</tr>
+							<tr>
+								<td align="center">Php 31,788 / 35,788 / 40,788
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.gsmarena.com/apple_iphone_4s-4212.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/iphone4s.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">iPhone 4s (64GB)
+							</tr>
+							<tr>
+								<td align="center">Php 38,788
+							</tr>
+							<tr>
+								<td><i><font size="2">*Smart locked</font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
 				</tr>
 				<tr>
-					<td align="center">iPhone 4 (32GB)
-					<td align="center">Blackberry Curve 8520
-					<td align="center">Tablet
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.gsmarena.com/apple_ipad_2_wi_fi-3847.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/ipad2.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">iPad2 (16GB wifi)
+							</tr>
+							<tr>
+								<td align="center">Php 21,788
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.toysforyou.co.cc/gallery/ipod_touch.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/ipod_touch.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">iPod Touch (16GB / 32GB)
+							</tr>
+							<tr>
+								<td align="center">Php 10,488 / 13,488
+							</tr>
+							<tr>
+								<td><i><font size="2">Black</font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.toysforyou.co.cc/gallery/ipod_touch.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/ipod_touch.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">iPod Touch (16GB / 32GB)
+							</tr>
+							<tr>
+								<td align="center">Php 10,788 / 13,788
+							</tr>
+							<tr>
+								<td><i><font size="2">White</font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
 				</tr>
 				<tr>
-					<td align="center">Php 27,888
-					<td align="center"><del>Php 9,900</del><font color="#FFFFFF">_</font><font color="#FF0000">Php 8,788</font>
-					<td align="center">Php 3,488
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.gsmarena.com/blackberry_torch_9860-3926.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/bb_9860.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">BB Torch 9860
+							</tr>
+							<tr>
+								<td align="center">Php 19,788
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.gsmarena.com/blackberry_torch_9810-3723.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/bb_9810.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">BB Torch 9810
+							</tr>
+							<tr>
+								<td align="center">Php 23,788
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.gsmarena.com/blackberry_torch_9800-3203.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/bb_9800.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">BB Torch 9800
+							</tr>
+							<tr>
+								<td align="center">Php 19,788
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
 				</tr>
 				<tr>
-					<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
-					<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
-					<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.gsmarena.com/blackberry_bold_touch_9900-3116.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/bb_9900.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">BB Bold 9900 (Black / White)
+							</tr>
+							<tr>
+								<td align="center">Php 26,788 / 28,788
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.gsmarena.com/blackberry_bold_9790-4332.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/bb_9790.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">BB Bold 9790
+							</tr>
+							<tr>
+								<td align="center">Php 21,788
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.gsmarena.com/blackberry_bold_9780-3431.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/bb_9780.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">BB Bold 9780
+							</tr>
+							<tr>
+								<td align="center">Php 17,788
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
+				</tr>
+				<tr>
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.gsmarena.com/blackberry_curve_9380-4331.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/bb_9380.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">BB Curve 9380
+							</tr>
+							<tr>
+								<td align="center">Php 16,488
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.gsmarena.com/blackberry_curve_9360-3722.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/bb_9360.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">BB Curve 9360 (Black / White / Pink)
+							</tr>
+							<tr>
+								<td align="center">Php 16,788 / 17,788 / 17,788
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.gsmarena.com/blackberry_curve_3g_9300-3422.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/bb_9300.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">BB Curve 9300
+							</tr>
+							<tr>
+								<td align="center">Php 11,788
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
+				</tr>
+				<tr>
+					<td>
+						<table border="0" width="100%">
+							<tr>
+								<td align="center">
+									<a href="http://www.toysforyou.co.cc/gallery/tablet.php" onclick="centeredPopup(this.href,'myWindow','500','600','yes');return false">
+									<img src="http://www.toysforyou.co.cc/images/tablet.jpg">
+									</a>
+							</tr>
+							<tr>
+								<td align="center">Tablet
+							</tr>
+							<tr>
+								<td align="center">Php 3,488
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td><i><font size="2"><font color="#FFFFFF">__</font></font></i>
+							</tr>
+							<tr>
+								<td align="center"><a href="how_to_order.php"><img src="http://www.toysforyou.co.cc/images/buy.gif"></a>
+							</tr>
+						</table>
 				</tr>
 				<tr>
 					<td colspan="3">**Feel free to <a href="about_us.php#contact">contact us</a> for models not listed here.
 				</tr>
 			</table>
-	<tr>
 <!-- Camera -->
+	<tr>
 		<a name="camera">
 		<td><font size="4">Camera
 		</a>
